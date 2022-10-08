@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "39 North Analytics, LLC. is a boutique consulting firm offering"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "39 North refers to the 39th Parallel North.\nThe 39th parallel is a circle of latitude that includes areas of New Jersey, but stretches. This name reflects our focus on spatial data science, our local roots in New Jersey, and a global vision to provide data science expertise and strategic assistance to our clients."
+  },
+  {
+    "objectID": "open-source.html",
+    "href": "open-source.html",
+    "title": "Software",
+    "section": "",
+    "text": "39 North Analytics maintains several open-source packages to assist with data science workflows, with a focus on the R & Python programming languages."
+  },
+  {
+    "objectID": "open-source.html#zipcoder",
+    "href": "open-source.html#zipcoder",
+    "title": "Software",
+    "section": "zipcodeR",
+    "text": "zipcodeR"
+  },
+  {
+    "objectID": "open-source.html#njgeo",
+    "href": "open-source.html#njgeo",
+    "title": "Software",
+    "section": "njgeo",
+    "text": "njgeo"
+  },
+  {
+    "objectID": "open-source.html#njtr1",
+    "href": "open-source.html#njtr1",
+    "title": "Software",
+    "section": "njtr1",
+    "text": "njtr1"
+  },
+  {
+    "objectID": "about.html#what-we-do",
+    "href": "about.html#what-we-do",
+    "title": "About",
+    "section": "What we do",
+    "text": "What we do\n39 North Analytics, LLC. is a boutique consulting firm that provides consulting services, custom programming & educational / training services for private, public sector and individual clients.\nWe also develop widely used open-source software packages for data science & related programming languages. These packages have been widely adopted in business, higher education and by individuals working with geospatial data for research and business / clinical use cases.\nThese services leverage our capacity in advanced analytics and informatics tools for value creation."
+  },
+  {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Services",
+    "section": "",
+    "text": "39 North Analytics maintains several open-source packages to assist with data science workflows, with a focus on the R & Python programming languages."
+  },
+  {
+    "objectID": "services.html#zipcoder",
+    "href": "services.html#zipcoder",
+    "title": "Services",
+    "section": "zipcodeR",
+    "text": "zipcodeR"
+  },
+  {
+    "objectID": "services.html#njgeo",
+    "href": "services.html#njgeo",
+    "title": "Services",
+    "section": "njgeo",
+    "text": "njgeo"
+  },
+  {
+    "objectID": "services.html#njtr1",
+    "href": "services.html#njtr1",
+    "title": "Services",
+    "section": "njtr1",
+    "text": "njtr1"
+  },
+  {
+    "objectID": "platforms.html",
+    "href": "platforms.html",
+    "title": "Platforms",
+    "section": "",
+    "text": "39 North Analytics owns and / or operates several plato"
+  },
+  {
+    "objectID": "platforms.html#opramachine",
+    "href": "platforms.html#opramachine",
+    "title": "Platforms",
+    "section": "OPRAmachine",
+    "text": "OPRAmachine\nOPRAmachine is currently structured as its own legal entity, OPRAmachine, LLC., which is a wholly-owned subsidiary of 39 North Analytics, LLC."
+  }
+]

@@ -1,0 +1,12 @@
+---
+title: "Software"
+---
+
+39 North Analytics maintains several open-source packages to assist with data science workflows, with a focus on the R & Python programming languages.
+
+## zipcodeR
+
+## njgeo
+
+## njtr1
+

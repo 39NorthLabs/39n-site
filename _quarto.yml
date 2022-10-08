@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  open-graph: true
+  title: "39 North Analytics"
+  site-url: https://39n.io
+  twitter-card: true
+  navbar:
+    left:
+      - index.qmd
+      - services.qmd
+      - open-source.qmd
+      - platforms.qmd
+      - about.qmd
+
+format:
+  html:
+    theme: materia
+    css: styles.css
+    toc: false
+
+
+
