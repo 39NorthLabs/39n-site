@@ -89,5 +89,33 @@
     "title": "Platforms",
     "section": "OPRAmachine",
     "text": "OPRAmachine\nOPRAmachine is currently structured as its own legal entity, OPRAmachine, LLC., which is a wholly-owned subsidiary of 39 North Analytics, LLC."
+  },
+  {
+    "objectID": "services.html#research",
+    "href": "services.html#research",
+    "title": "Services",
+    "section": "Research",
+    "text": "Research"
+  },
+  {
+    "objectID": "services.html#public-sector-data-mining",
+    "href": "services.html#public-sector-data-mining",
+    "title": "Services",
+    "section": "Public Sector Data Mining",
+    "text": "Public Sector Data Mining"
+  },
+  {
+    "objectID": "services.html#data-analysis-machine-learning-ai",
+    "href": "services.html#data-analysis-machine-learning-ai",
+    "title": "Services",
+    "section": "Data Analysis & Machine Learning / AI",
+    "text": "Data Analysis & Machine Learning / AI"
+  },
+  {
+    "objectID": "services.html#training",
+    "href": "services.html#training",
+    "title": "Services",
+    "section": "Training",
+    "text": "Training"
   }
 ]
