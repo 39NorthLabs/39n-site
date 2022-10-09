@@ -5,7 +5,9 @@ website:
   open-graph: true
   title: "39 North Analytics"
   site-url: https://39n.io
-  twitter-card: true
+  favicon: favicon.png
+  twitter-card:
+    creator: "@gavroz"
   navbar:
     left:
       - index.qmd
@@ -14,11 +16,11 @@ website:
       - platforms.qmd
       - about.qmd
 
+
 format:
   html:
-    theme: materia
+    theme: cosmo
     css: styles.css
     toc: false
-
 
 
