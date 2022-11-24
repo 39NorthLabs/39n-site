@@ -10,7 +10,7 @@ While these packages are free and open for anyone to use, professional support f
 
 ## R Packages
 
-### zipcodeR
+### zipcodeR {.s}
 The zipcodeR package for R is one of the programming language's most widely used packages for performing analysis on ZIP code level spatial datasets.
 
 ### njgeo
