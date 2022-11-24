@@ -1,12 +1,21 @@
 ---
-title: "Software"
+title: "Open Source Software"
 ---
+
+## Providing Data Science Thought Leadership
 
 39 North Labs maintains several open-source packages to assist with data science workflows, with a focus on the R & Python programming languages.
 
-## zipcodeR
+While these packages are free and open for anyone to use, professional support for implementing them is available through our [professional services](/services.qmd) practice.
 
-## njgeo
+## R Packages
 
-## njtr1
+### zipcodeR
+The zipcodeR package for R is one of the programming language's most widely used packages for performing analysis on ZIP code level spatial datasets.
+
+### njgeo
+The njgeo package provides an R interface to New Jersey's official state geocoding APIs in a format native to R users.
+
+### njtr1
+njtr1 enables road safety research by providing an easy R interface for programatically obtaining geotagged motor vehicle accident data for analysis purposes.
 

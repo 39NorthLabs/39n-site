@@ -2,11 +2,9 @@
 title: "Platforms"
 ---
 
-39 North Analytics owns and / or operates several plato
+We have developed several software-as-a-service platforms to serve the business community.
 
 ## OPRAmachine
 
 OPRAmachine is currently structured as its own legal entity, OPRAmachine, LLC., which is a wholly-owned subsidiary of 39 North Analytics, LLC.
-
-## 
 

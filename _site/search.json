@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "39 North Labs, LLC. is a boutique consulting firm offering"
+    "text": "39 North Labs, LLC. is a boutique consulting firm offering\nWe also publish several open-source software libraries to elevate the state of the art in analytics.\n\nPublic records access and government data mining\nGIS and spatial intelligence"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "39 North refers to the 39th Parallel North.\nThe 39th parallel is a circle of latitude that includes areas of New Jersey, but stretches. This name reflects our focus on spatial data science, our local roots in New Jersey, and a global vision to provide data science expertise and strategic assistance to our clients."
+    "text": "39 North refers to the 39th Parallel North.\nThe 39th parallel is a circle of latitude that includes areas of New Jersey, but stretches.\nThis name reflects our focus on spatial data science, our local roots in New Jersey, and a global vision to provide data science thought leadership & expertise to our clients and the wider data community."
   },
   {
     "objectID": "open-source.html",
     "href": "open-source.html",
-    "title": "Software",
+    "title": "Open Source Software",
     "section": "",
-    "text": "39 North Labs maintains several open-source packages to assist with data science workflows, with a focus on the R & Python programming languages."
+    "text": "39 North Labs maintains several open-source packages to assist with data science workflows, with a focus on the R & Python programming languages.\nWhile these packages are free and open for anyone to use, professional support for implementing them is available through our professional services practice."
   },
   {
     "objectID": "open-source.html#zipcoder",
@@ -45,15 +45,15 @@
     "objectID": "about.html#what-we-do",
     "href": "about.html#what-we-do",
     "title": "About",
-    "section": "What we do",
-    "text": "What we do\n39 North Analytics, LLC. is a boutique consulting firm that provides consulting services, custom programming & educational / training services for private, public sector and individual clients.\nWe also develop widely used open-source software packages for data science & related programming languages. These packages have been widely adopted in business, higher education and by individuals working with geospatial data for research and business / clinical use cases.\nThese services leverage our capacity in advanced analytics and informatics tools for value creation."
+    "section": "What We Do",
+    "text": "What We Do\n39 North Labs, LLC is a boutique consulting firm that provides consulting services, custom programming & educational / training services for private, public sector and individual clients.\nWe also develop widely used open-source software packages for data science & related programming languages. These packages have been widely adopted in business, higher education and by individuals working with geospatial data for research and business / clinical use cases.\nThese services leverage our capacity in advanced analytics and informatics tools for value creation."
   },
   {
     "objectID": "services.html",
     "href": "services.html",
-    "title": "Services",
+    "title": "Professional Services",
     "section": "",
-    "text": "39 North Analytics maintains several open-source packages to assist with data science workflows, with a focus on the R & Python programming languages."
+    "text": "We can help your business create value from public sector datasets. This includes mining data from public entities for value creation and lead generation.\nWe can also provide guidance on utilizing freedom of information (FOI) laws such as New Jersey’s Open Public Records Act (OPRA) to obtain data that could be potentially valuable for your business."
   },
   {
     "objectID": "services.html#zipcoder",
@@ -81,7 +81,7 @@
     "href": "platforms.html",
     "title": "Platforms",
     "section": "",
-    "text": "39 North Analytics owns and / or operates several plato"
+    "text": "We have developed several software-as-a-service platforms to serve the business community."
   },
   {
     "objectID": "platforms.html#opramachine",
@@ -100,22 +100,36 @@
   {
     "objectID": "services.html#public-sector-data-mining",
     "href": "services.html#public-sector-data-mining",
-    "title": "Services",
+    "title": "Professional Services",
     "section": "Public Sector Data Mining",
     "text": "Public Sector Data Mining"
   },
   {
     "objectID": "services.html#data-analysis-machine-learning-ai",
     "href": "services.html#data-analysis-machine-learning-ai",
-    "title": "Services",
+    "title": "Professional Services",
     "section": "Data Analysis & Machine Learning / AI",
-    "text": "Data Analysis & Machine Learning / AI"
+    "text": "Data Analysis & Machine Learning / AI\nOur advanced analytics capabilities can help you solve business problems."
   },
   {
     "objectID": "services.html#training",
     "href": "services.html#training",
-    "title": "Services",
+    "title": "Professional Services",
     "section": "Training",
     "text": "Training"
+  },
+  {
+    "objectID": "services.html#training-solutions",
+    "href": "services.html#training-solutions",
+    "title": "Professional Services",
+    "section": "Training Solutions",
+    "text": "Training Solutions\nWe can provide customized training for your organization to assist with data-driven decisionmaking and business intelligence."
+  },
+  {
+    "objectID": "open-source.html#r-packages",
+    "href": "open-source.html#r-packages",
+    "title": "Open Source Software",
+    "section": "R Packages",
+    "text": "R Packages\n\nzipcodeR\nThe zipcodeR package for R is one of the programming language’s most widely used packages for performing analysis on ZIP code level spatial datasets.\n\n\nnjgeo\nThe njgeo package provides an R interface to New Jersey’s official state geocoding APIs in a format native to R users.\n\n\nnjtr1\nnjtr1 enables road safety research by providing an easy R interface for programatically obtaining geotagged motor vehicle accident data for analysis purposes."
   }
 ]

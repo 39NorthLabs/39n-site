@@ -1,13 +1,14 @@
 ---
-title: "Services"
+title: "Professional Services"
 ---
 
-39 North Analytics maintains several open-source packages to assist with data science workflows, with a focus on the R & Python programming languages.
-
-## Research
-
 ## Public Sector Data Mining
+We can help your business create value from public sector datasets. This includes mining data from public entities for value creation and lead generation.
+
+We can also provide guidance on utilizing freedom of information (FOI) laws such as New Jersey's Open Public Records Act (OPRA) to obtain data that could be potentially valuable for your business.
 
 ## Data Analysis & Machine Learning / AI
+Our advanced analytics capabilities can help you solve business problems.
 
-## Training
+## Training Solutions
+We can provide customized training for your organization to assist with data-driven decisionmaking and business intelligence.
