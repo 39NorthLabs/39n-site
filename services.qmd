@@ -2,6 +2,9 @@
 title: "Professional Services"
 ---
 
+# Full-Stack Data Science
+From designing data collection & infrastructure solutions, to high-impact interactive visualizations, we can craft a custom solution to fit your project's needs.
+
 ## Public Sector Data Mining
 We can help your business create value from public sector datasets. This includes mining data from public entities for value creation and lead generation.
 
