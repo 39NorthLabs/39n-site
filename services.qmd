@@ -2,19 +2,19 @@
 title: "Professional Services"
 ---
 
-# Full-Stack Data Science Expertise
+## Full-Stack Data Science Expertise
 From designing data collection & infrastructure solutions, to high-impact interactive visualizations, we can craft a custom solution to fit your project's needs.
 
-## Public Sector Data Mining
+### Public Sector Data Mining
 We can help your business create value from public sector datasets. This includes mining data from public entities for value creation and lead generation.
 
 We can also provide guidance on utilizing freedom of information (FOI) laws such as New Jersey's Open Public Records Act (OPRA) to obtain data that could be potentially valuable for your business.
 
-## Web Scraping / Social Media Analytics
+### Web Scraping / Social Media Analytics
 The world of online content sources can be a valuable source for business intelligence. We can develop custom solutions for scraping data from public websites as well as mining social media datasets for localized intelligence and public sentiment analysis.
 
-## Data Analysis & Machine Learning / AI
+### Data Analysis & Machine Learning / AI
 Our advanced analytics capabilities can help you solve business problems.
 
-## Training Solutions
+### Training Solutions
 We can provide customized training for your organization to assist with data-driven decisionmaking and business intelligence.
