@@ -2,9 +2,9 @@
 title: "About"
 ---
 
-## Our name
+## What's in a Name?
 
-39 North refers to the [39th Parallel North](https://en.wikipedia.org/wiki/39th_parallel_north).
+Our company is named after the [39th Parallel North](https://en.wikipedia.org/wiki/39th_parallel_north).
 
 The 39th parallel is a circle of latitude that includes areas of New Jersey, but stretches. 
 
