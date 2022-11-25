@@ -4,6 +4,7 @@ project:
 website:
   open-graph: true
   title: "39 North Labs, LLC."
+  description: "Data Science, GIS & Business Analytics Consulting"
   site-url: https://39n.io
   favicon: favicon.png
   twitter-card:
