@@ -19,7 +19,6 @@ website:
       - index.qmd
       - services.qmd
       - open-source.qmd
-      - platforms.qmd
       - about.qmd
 
 
