@@ -1,5 +1,26 @@
 [
   {
+    "objectID": "services.html",
+    "href": "services.html",
+    "title": "Professional Services",
+    "section": "",
+    "text": "Copyright © 2022 39 North Labs LLC. 610 Lacey Road #1232 Forked River, NJ 08731"
+  },
+  {
+    "objectID": "open-source.html",
+    "href": "open-source.html",
+    "title": "Open Source Software",
+    "section": "",
+    "text": "39 North Labs maintains several open-source packages to assist with data science workflows, with a focus on the R & Python programming languages.\nWhile these packages are free and open for anyone to use, professional support for implementing them is available through our professional services practice.\nCopyright © 2022 39 North Labs LLC. 610 Lacey Road #1232 Forked River, NJ 08731"
+  },
+  {
+    "objectID": "open-source.html#r-packages",
+    "href": "open-source.html#r-packages",
+    "title": "Open Source Software",
+    "section": "R Packages",
+    "text": "R Packages\n\nzipcodeR\nThe zipcodeR package for R is one of the programming language’s most widely used packages for performing analysis on ZIP code level spatial datasets.\n\n\nnjgeo\nThe njgeo package provides an R interface to New Jersey’s official state geocoding APIs in a format native to R users.\n\n\nnjtr1\nnjtr1 enables road safety research by providing an easy R interface for programatically obtaining geotagged motor vehicle accident data for analysis purposes."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
@@ -14,136 +35,10 @@
     "text": "Our company is named after the 39th Parallel North.\nThe 39th parallel is a circle of latitude that includes areas of New Jersey, but stretches.\nThis name reflects our focus on spatial data science, our local roots in New Jersey, and a global vision to provide data science thought leadership & expertise to our clients and the wider data community.\nCopyright © 2022 39 North Labs LLC. 610 Lacey Road #1232 Forked River, NJ 08731"
   },
   {
-    "objectID": "open-source.html",
-    "href": "open-source.html",
-    "title": "Open Source Software",
-    "section": "",
-    "text": "39 North Labs maintains several open-source packages to assist with data science workflows, with a focus on the R & Python programming languages.\nWhile these packages are free and open for anyone to use, professional support for implementing them is available through our professional services practice.\nCopyright © 2022 39 North Labs LLC. 610 Lacey Road #1232 Forked River, NJ 08731"
-  },
-  {
-    "objectID": "open-source.html#zipcoder",
-    "href": "open-source.html#zipcoder",
-    "title": "Software",
-    "section": "zipcodeR",
-    "text": "zipcodeR"
-  },
-  {
-    "objectID": "open-source.html#njgeo",
-    "href": "open-source.html#njgeo",
-    "title": "Software",
-    "section": "njgeo",
-    "text": "njgeo"
-  },
-  {
-    "objectID": "open-source.html#njtr1",
-    "href": "open-source.html#njtr1",
-    "title": "Software",
-    "section": "njtr1",
-    "text": "njtr1"
-  },
-  {
     "objectID": "about.html#what-we-do",
     "href": "about.html#what-we-do",
     "title": "About",
     "section": "What We Do",
     "text": "What We Do\n39 North Labs, LLC is a boutique consulting firm that provides consulting services, custom programming & educational / training services for private, public sector and individual clients.\nWe also develop widely used open-source software packages for data science & related programming languages. These packages have been widely adopted in business, higher education and by individuals working with geospatial data for research and business / clinical use cases.\nThese services leverage our capacity in advanced analytics and informatics tools for value creation."
-  },
-  {
-    "objectID": "services.html",
-    "href": "services.html",
-    "title": "Professional Services",
-    "section": "",
-    "text": "From designing data collection & infrastructure solutions, to high-impact interactive visualizations, we can craft a custom solution to fit your project’s needs.\n\n\nWe can help your business create value from public sector datasets. This includes mining data from public entities for value creation and lead generation.\nWe can also provide guidance on utilizing freedom of information (FOI) laws such as New Jersey’s Open Public Records Act (OPRA) to obtain data that could be potentially valuable for your business.\n\n\n\nThe world of online content sources can be a valuable source for business intelligence. We can develop custom solutions for scraping data from public websites as well as mining social media datasets for localized intelligence and public sentiment analysis.\n\n\n\nOur advanced analytics capabilities can help you solve business problems.\n\n\n\nWe can provide customized training for your organization to assist with data-driven decisionmaking and business intelligence.\n39 North Labs, LLC. 610 Lacey Road #1232 Forked River, NJ 08731 | (609)-222-4161"
-  },
-  {
-    "objectID": "services.html#zipcoder",
-    "href": "services.html#zipcoder",
-    "title": "Services",
-    "section": "zipcodeR",
-    "text": "zipcodeR"
-  },
-  {
-    "objectID": "services.html#njgeo",
-    "href": "services.html#njgeo",
-    "title": "Services",
-    "section": "njgeo",
-    "text": "njgeo"
-  },
-  {
-    "objectID": "services.html#njtr1",
-    "href": "services.html#njtr1",
-    "title": "Services",
-    "section": "njtr1",
-    "text": "njtr1"
-  },
-  {
-    "objectID": "platforms.html",
-    "href": "platforms.html",
-    "title": "Platforms",
-    "section": "",
-    "text": "We have developed several software-as-a-service platforms to serve the business community."
-  },
-  {
-    "objectID": "platforms.html#opramachine",
-    "href": "platforms.html#opramachine",
-    "title": "Platforms",
-    "section": "OPRAmachine",
-    "text": "OPRAmachine\nOPRAmachine is currently structured as its own legal entity, OPRAmachine, LLC., which is a wholly-owned subsidiary of 39 North Analytics, LLC."
-  },
-  {
-    "objectID": "services.html#research",
-    "href": "services.html#research",
-    "title": "Services",
-    "section": "Research",
-    "text": "Research"
-  },
-  {
-    "objectID": "services.html#public-sector-data-mining",
-    "href": "services.html#public-sector-data-mining",
-    "title": "Professional Services",
-    "section": "Public Sector Data Mining",
-    "text": "Public Sector Data Mining"
-  },
-  {
-    "objectID": "services.html#data-analysis-machine-learning-ai",
-    "href": "services.html#data-analysis-machine-learning-ai",
-    "title": "Professional Services",
-    "section": "Data Analysis & Machine Learning / AI",
-    "text": "Data Analysis & Machine Learning / AI\nOur advanced analytics capabilities can help you solve business problems."
-  },
-  {
-    "objectID": "services.html#training",
-    "href": "services.html#training",
-    "title": "Professional Services",
-    "section": "Training",
-    "text": "Training"
-  },
-  {
-    "objectID": "services.html#training-solutions",
-    "href": "services.html#training-solutions",
-    "title": "Professional Services",
-    "section": "Training Solutions",
-    "text": "Training Solutions\nWe can provide customized training for your organization to assist with data-driven decisionmaking and business intelligence."
-  },
-  {
-    "objectID": "open-source.html#r-packages",
-    "href": "open-source.html#r-packages",
-    "title": "Open Source Software",
-    "section": "R Packages",
-    "text": "R Packages\n\nzipcodeR\nThe zipcodeR package for R is one of the programming language’s most widely used packages for performing analysis on ZIP code level spatial datasets.\n\n\nnjgeo\nThe njgeo package provides an R interface to New Jersey’s official state geocoding APIs in a format native to R users.\n\n\nnjtr1\nnjtr1 enables road safety research by providing an easy R interface for programatically obtaining geotagged motor vehicle accident data for analysis purposes."
-  },
-  {
-    "objectID": "open-source.html#providing-data-science-thought-leadership",
-    "href": "open-source.html#providing-data-science-thought-leadership",
-    "title": "Open Source Software",
-    "section": "Providing Data Science Thought Leadership",
-    "text": "Providing Data Science Thought Leadership\n39 North Labs maintains several open-source packages to assist with data science workflows, with a focus on the R & Python programming languages.\nWhile these packages are free and open for anyone to use, professional support for implementing them is available through our professional services practice."
-  },
-  {
-    "objectID": "services.html#full-stack-data-science-expertise",
-    "href": "services.html#full-stack-data-science-expertise",
-    "title": "Professional Services",
-    "section": "Full-Stack Data Science Expertise",
-    "text": "Full-Stack Data Science Expertise\nFrom designing data collection & infrastructure solutions, to high-impact interactive visualizations, we can craft a custom solution to fit your project’s needs.\n\nPublic Sector Data Mining\nWe can help your business create value from public sector datasets. This includes mining data from public entities for value creation and lead generation.\nWe can also provide guidance on utilizing freedom of information (FOI) laws such as New Jersey’s Open Public Records Act (OPRA) to obtain data that could be potentially valuable for your business.\n\n\nWeb Scraping / Social Media Analytics\nThe world of online content sources can be a valuable source for business intelligence. We can develop custom solutions for scraping data from public websites as well as mining social media datasets for localized intelligence and public sentiment analysis.\n\n\nData Analysis & Machine Learning / AI\nOur advanced analytics capabilities can help you solve business problems.\n\n\nTraining Solutions\nWe can provide customized training for your organization to assist with data-driven decisionmaking and business intelligence."
   }
 ]

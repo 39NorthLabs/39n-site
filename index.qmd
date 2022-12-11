@@ -8,6 +8,7 @@ toc: false
 
 39 North Labs, LLC. is a boutique consulting firm offering a range of [professional services](/services.qmd) in the field of data analytics and informatics, with a focus on public sector datasets and an advanced GIS & mapping capability.
 
+
 We also publish several [open-source software](/open-source.qmd) libraries to elevate the state of the art in analytics.
 
 Contact us today for assistance with:
