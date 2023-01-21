@@ -7,7 +7,7 @@ website:
   description: "Data Science, GIS & Business Analytics Consulting"
   site-url: https://39n.io
   body-footer: | 
-    Copyright © 2023 39 North Labs LLC. 610 Lacey Road #1232 Forked River, NJ 08731
+    Copyright © 2023 **39 North Labs LLC.** 610 Lacey Road #1232 Forked River, NJ 08731 - [Privacy Policy](privacy-policy.qmd)
   favicon: favicon.png
   twitter-card:
     creator: "@gavroz"

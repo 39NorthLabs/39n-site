@@ -4,14 +4,14 @@
     "href": "services.html",
     "title": "Professional Services",
     "section": "",
-    "text": "Copyright © 2022 39 North Labs LLC. 610 Lacey Road #1232 Forked River, NJ 08731"
+    "text": "Copyright © 2023 39 North Labs LLC. 610 Lacey Road #1232 Forked River, NJ 08731 - Privacy Policy"
   },
   {
     "objectID": "open-source.html",
     "href": "open-source.html",
     "title": "Open Source Software",
     "section": "",
-    "text": "39 North Labs maintains several open-source packages to assist with data science workflows, with a focus on the R & Python programming languages.\nWhile these packages are free and open for anyone to use, professional support for implementing them is available through our professional services practice.\nCopyright © 2022 39 North Labs LLC. 610 Lacey Road #1232 Forked River, NJ 08731"
+    "text": "39 North Labs maintains several open-source packages to assist with data science workflows, with a focus on the R & Python programming languages.\nWhile these packages are free and open for anyone to use, professional support for implementing them is available through our professional services practice.\nCopyright © 2023 39 North Labs LLC. 610 Lacey Road #1232 Forked River, NJ 08731 - Privacy Policy"
   },
   {
     "objectID": "open-source.html#r-packages",
@@ -25,7 +25,7 @@
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Copyright © 2022 39 North Labs LLC. 610 Lacey Road #1232 Forked River, NJ 08731"
+    "text": "Copyright © 2023 39 North Labs LLC. 610 Lacey Road #1232 Forked River, NJ 08731 - Privacy Policy"
   },
   {
     "objectID": "about.html",
@@ -54,5 +54,61 @@
     "title": "About",
     "section": "Our Team",
     "text": "Our Team\nThe firm is led by principal and owner, Gavin Rozzi."
+  },
+  {
+    "objectID": "privacy-policy.html",
+    "href": "privacy-policy.html",
+    "title": "Privacy Policy",
+    "section": "",
+    "text": "39 North Labs, LLC (“39 North Labs,” “we,” or “us”) is committed to protecting the privacy of our website visitors and clients. This Privacy Policy (“Policy”) applies to the 39 North Labs, LLC. website (“https://39n.io”) and governs the collection, use, and disclosure of personal information that we collect from users of our website, as well as any social media platforms operated by us.\nBy using our website, you consent to the data practices described in this Policy. If you do not agree with the data practices described in this Policy, you should not use our website. We reserve the right to change this Policy at any time, and will inform you of any changes through the website or via email. Your continued use of our website following the posting of changes to this Policy will be deemed your acceptance of those changes.\nCopyright © 2023 39 North Labs LLC. 610 Lacey Road #1232 Forked River, NJ 08731 - Privacy Policy"
+  },
+  {
+    "objectID": "privacy-policy.html#information-we-collect",
+    "href": "privacy-policy.html#information-we-collect",
+    "title": "Privacy Policy",
+    "section": "Information We Collect:",
+    "text": "Information We Collect:\nWe may collect personal information from you, including but not limited to your name, address, telephone number, email address, and any other information you provide to us. We may also automatically collect certain information about your use of our website, including but not limited to your IP address, browser type, and the pages you visit."
+  },
+  {
+    "objectID": "privacy-policy.html#use-of-information",
+    "href": "privacy-policy.html#use-of-information",
+    "title": "Privacy Policy",
+    "section": "Use of Information:",
+    "text": "Use of Information:\nWe may use your personal information to provide you with information, products or services that you request, to contact you with information about our company and our products and services, or to improve our website and our products and services. We will only use your personal information for the purposes for which it was collected and will not use it for any other legal purpose without your consent."
+  },
+  {
+    "objectID": "privacy-policy.html#disclosure-of-information",
+    "href": "privacy-policy.html#disclosure-of-information",
+    "title": "Privacy Policy",
+    "section": "Disclosure of Information:",
+    "text": "Disclosure of Information:\nWe may disclose your personal information to any of our affiliates, or to our partners or other third parties for the purposes for which it was collected and in compliance with legal regulations. We may also disclose your personal information to any third party if we believe in good faith that we are required to do so by law."
+  },
+  {
+    "objectID": "privacy-policy.html#security-of-information",
+    "href": "privacy-policy.html#security-of-information",
+    "title": "Privacy Policy",
+    "section": "Security of Information:",
+    "text": "Security of Information:\nWe use reasonable security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. We restrict access to your personal information to our employees, contractors, and agents who need to know that information in order to operate, develop or improve our website and services."
+  },
+  {
+    "objectID": "privacy-policy.html#data-retention",
+    "href": "privacy-policy.html#data-retention",
+    "title": "Privacy Policy",
+    "section": "Data Retention:",
+    "text": "Data Retention:\nWe will retain your personal information for as long as necessary to provide you with the products and services you have requested, or for other legal purposes."
+  },
+  {
+    "objectID": "privacy-policy.html#third-party-sharing",
+    "href": "privacy-policy.html#third-party-sharing",
+    "title": "Privacy Policy",
+    "section": "Third-Party Sharing:",
+    "text": "Third-Party Sharing:\nWe may share your personal information with third parties for the purpose of providing you with the products and services you have requested. We will not share your personal information with third parties for marketing or other purposes without your consent."
+  },
+  {
+    "objectID": "privacy-policy.html#compliance-with-data-protection-laws",
+    "href": "privacy-policy.html#compliance-with-data-protection-laws",
+    "title": "Privacy Policy",
+    "section": "Compliance with Data Protection Laws:",
+    "text": "Compliance with Data Protection Laws:\nWe are committed to complying with all relevant data protection laws and regulations as they may apply within the State of New Jersey."
   }
 ]
