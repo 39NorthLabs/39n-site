@@ -2,19 +2,18 @@
 title: "Professional Services"
 ---
 
-## Full-Stack Data Science Expertise
-From designing data collection & infrastructure solutions, to high-impact interactive visualizations, we can craft a custom solution to fit your project's needs.
+At 39 North Labs, we specialize in providing professional data analytics and consulting services to help organizations unlock the full potential of their data. Our team of experts has a wide range of experience in data science, informatics, spatial analysis, and GIS/mapping, and we can craft a custom solution to fit the unique needs of your project.
 
-### Public Sector Data Mining
-We can help your business create value from public sector datasets. This includes mining data from public entities for value creation and lead generation.
+## Our Services
 
-We can also provide guidance on utilizing freedom of information (FOI) laws such as New Jersey's Open Public Records Act (OPRA) to obtain data that could be potentially valuable for your business.
+- **Full-Stack Data Science Expertise:** From designing data collection & infrastructure solutions to creating high-impact interactive visualizations, we can help you make sense of your data and turn it into actionable insights.
 
-### Web Scraping / Social Media Analytics
-The world of online content sources can be a valuable source for business intelligence. We can develop custom solutions for scraping data from public websites as well as mining social media datasets for localized intelligence and public sentiment analysis.
+- **Public Sector Data Mining:** We can help you create value from public sector datasets by mining data from public entities for lead generation and business intelligence. We also provide guidance on utilizing freedom of information (FOI) laws to obtain valuable data for your organization or government.
 
-### Data Analysis & Machine Learning / AI
-Our advanced analytics capabilities can help you solve business problems.
+- **Web Scraping and Social Media Analytics:** We can develop custom solutions for scraping data from public websites and mining social media datasets for localized intelligence and public sentiment analysis.
 
-### Training Solutions
-We can provide customized training for your organization to assist with data-driven decisionmaking and business intelligence.
+- **Data Analysis and Machine Learning/AI:** Our advanced analytics capabilities can help you solve business problems and make data-driven decisions.
+
+- **Training Solutions:** We offer customized training for your organization or government to assist with data-driven decision-making and business intelligence.
+
+If you're ready to take your organization or government to the next level with the power of data-driven insights, contact us today to schedule a consultation with one of our experts.

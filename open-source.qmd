@@ -2,20 +2,18 @@
 title: "Open Source Software"
 ---
 
-## Providing Data Science Thought Leadership
-
-39 North Labs maintains several open-source packages to assist with data science workflows, with a focus on the R & Python programming languages.
-
-While these packages are free and open for anyone to use, professional support for implementing them is available through our [professional services](/services.qmd) practice.
+At 39 North Labs, we're committed to providing thought leadership in the field of data science. That's why we maintain several open-source packages to assist with data science workflows, with a focus on the R and Python programming languages. These packages are free and open for anyone to use, but if you need professional support for implementing them, our [professional services](/services.qmd) practice is here to help.
 
 ## R Packages
 
 ### zipcodeR
-The zipcodeR package for R is one of the programming language's most widely used packages for performing analysis on ZIP code level spatial datasets.
+The zipcodeR package for R is one of the programming language's most widely used packages for performing analysis on ZIP code level spatial datasets. With this package, you can easily access and analyze data at the ZIP code level, helping you gain a deeper understanding of your data and make more informed decisions.
 
 ### njgeo
-The njgeo package provides an R interface to New Jersey's official state geocoding APIs in a format native to R users.
+The njgeo package provides an R interface to New Jersey's official state geocoding APIs in a format native to R users. With this package, you can easily access and analyze geocoded data for the state of New Jersey, making it easier to conduct spatial analyses and create maps.
 
 ### njtr1
-njtr1 enables road safety research by providing an easy R interface for programatically obtaining geotagged motor vehicle accident data for analysis purposes.
+njtr1 enables road safety research by providing an easy R interface for programatically obtaining geotagged motor vehicle accident data for analysis purposes. This package is an essential tool for researchers, planners, and policymakers looking to understand and improve road safety in New Jersey.
+
+Our open-source packages are constantly updated and improved, so be sure to check back often for new features and capabilities.
 

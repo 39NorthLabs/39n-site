@@ -4,42 +4,42 @@
     "href": "services.html",
     "title": "Professional Services",
     "section": "",
-    "text": "Copyright © 2023 39 North Labs LLC. 610 Lacey Road #1232 Forked River, NJ 08731 - Privacy Policy"
+    "text": "At 39 North Labs, we specialize in providing professional data analytics and consulting services to help organizations unlock the full potential of their data. Our team of experts has a wide range of experience in data science, informatics, spatial analysis, and GIS/mapping, and we can craft a custom solution to fit the unique needs of your project.\nCopyright © 2023 39 North Labs LLC. 610 Lacey Road #1232 Forked River, NJ 08731 - Privacy Policy"
   },
   {
     "objectID": "open-source.html",
     "href": "open-source.html",
     "title": "Open Source Software",
     "section": "",
-    "text": "39 North Labs maintains several open-source packages to assist with data science workflows, with a focus on the R & Python programming languages.\nWhile these packages are free and open for anyone to use, professional support for implementing them is available through our professional services practice.\nCopyright © 2023 39 North Labs LLC. 610 Lacey Road #1232 Forked River, NJ 08731 - Privacy Policy"
+    "text": "At 39 North Labs, we’re committed to providing thought leadership in the field of data science. That’s why we maintain several open-source packages to assist with data science workflows, with a focus on the R and Python programming languages. These packages are free and open for anyone to use, but if you need professional support for implementing them, our professional services practice is here to help.\nCopyright © 2023 39 North Labs LLC. 610 Lacey Road, #1232 Forked River, NJ 08731 - Privacy Policy"
   },
   {
     "objectID": "open-source.html#r-packages",
     "href": "open-source.html#r-packages",
     "title": "Open Source Software",
     "section": "R Packages",
-    "text": "R Packages\n\nzipcodeR\nThe zipcodeR package for R is one of the programming language’s most widely used packages for performing analysis on ZIP code level spatial datasets.\n\n\nnjgeo\nThe njgeo package provides an R interface to New Jersey’s official state geocoding APIs in a format native to R users.\n\n\nnjtr1\nnjtr1 enables road safety research by providing an easy R interface for programatically obtaining geotagged motor vehicle accident data for analysis purposes."
+    "text": "R Packages\n\nzipcodeR\nThe zipcodeR package for R is one of the programming language’s most widely used packages for performing analysis on ZIP code level spatial datasets. With this package, you can easily access and analyze data at the ZIP code level, helping you gain a deeper understanding of your data and make more informed decisions.\n\n\nnjgeo\nThe njgeo package provides an R interface to New Jersey’s official state geocoding APIs in a format native to R users. With this package, you can easily access and analyze geocoded data for the state of New Jersey, making it easier to conduct spatial analyses and create maps.\n\n\nnjtr1\nnjtr1 enables road safety research by providing an easy R interface for programatically obtaining geotagged motor vehicle accident data for analysis purposes. This package is an essential tool for researchers, planners, and policymakers looking to understand and improve road safety in New Jersey.\nOur open-source packages are constantly updated and improved, so be sure to check back often for new features and capabilities."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "Copyright © 2023 39 North Labs LLC. 610 Lacey Road #1232 Forked River, NJ 08731 - Privacy Policy"
+    "text": "Copyright © 2023 39 North Labs LLC. 610 Lacey Road, #1232 Forked River, NJ 08731 - Privacy Policy"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Our company is named after the 39th Parallel North.\nThe 39th parallel is a circle of latitude that includes areas of New Jersey, but stretches.\nThis name reflects our focus on spatial data science, our local roots in New Jersey, and a global vision to provide data science thought leadership & expertise to our clients and the wider data community.\nCopyright © 2023 39 North Labs LLC. 610 Lacey Road #1232 Forked River, NJ 08731"
+    "text": "39 North Labs LLC is a boutique consulting firm that specializes in providing professional data analytics and consulting services. Our name, 39 North Labs, is inspired by the 39th parallel north, a circle of latitude that stretches across the globe and includes areas of New Jersey. This name reflects our focus on spatial data science, our local roots in New Jersey, and our global vision to provide thought leadership and expertise to our clients and the wider data community.\nCopyright © 2023 39 North Labs LLC. 610 Lacey Road, #1232 Forked River, NJ 08731 - Privacy Policy"
   },
   {
     "objectID": "about.html#what-we-do",
     "href": "about.html#what-we-do",
     "title": "About",
     "section": "What We Do",
-    "text": "What We Do\n39 North Labs, LLC is a boutique consulting firm that provides consulting services, custom programming & educational / training services for private, public sector and individual clients.\nWe also develop widely used open-source software packages for data science & related programming languages. These packages have been widely adopted in business, higher education and by individuals working with geospatial data for research and business / clinical use cases.\nThese services leverage our capacity in advanced analytics and informatics tools for value creation."
+    "text": "What We Do\nWe provide consulting services, custom programming, and educational/training services for private, public sector, and individual clients. We also develop widely used open-source software packages for data science and related programming languages. These packages have been adopted by businesses, higher education, and individuals working with geospatial data for research and business/clinical use cases. Our services leverage our expertise in advanced analytics and informatics tools to create value for our clients."
   },
   {
     "objectID": "gavin-rozzi.html",
@@ -53,7 +53,7 @@
     "href": "about.html#our-team",
     "title": "About",
     "section": "Our Team",
-    "text": "Our Team\nThe firm is led by principal and owner, Gavin Rozzi."
+    "text": "Our Team\nThe firm is led by principal and owner, Gavin Rozzi, who has over a decade of experience in technology consulting, platform development & data science. Our team is composed of experts in data analytics, informatics, spatial analysis, and GIS/mapping who are dedicated to delivering valuable insights and driving results for our clients."
   },
   {
     "objectID": "privacy-policy.html",
@@ -110,5 +110,12 @@
     "title": "Privacy Policy",
     "section": "Compliance with Data Protection Laws:",
     "text": "Compliance with Data Protection Laws:\nWe are committed to complying with all relevant data protection laws and regulations as they may apply within the State of New Jersey."
+  },
+  {
+    "objectID": "services.html#our-services",
+    "href": "services.html#our-services",
+    "title": "Professional Services",
+    "section": "Our Services",
+    "text": "Our Services\n\nFull-Stack Data Science Expertise: From designing data collection & infrastructure solutions to creating high-impact interactive visualizations, we can help you make sense of your data and turn it into actionable insights.\nPublic Sector Data Mining: We can help you create value from public sector datasets by mining data from public entities for lead generation and business intelligence. We also provide guidance on utilizing freedom of information (FOI) laws to obtain valuable data for your organization or government.\nWeb Scraping and Social Media Analytics: We can develop custom solutions for scraping data from public websites and mining social media datasets for localized intelligence and public sentiment analysis.\nData Analysis and Machine Learning/AI: Our advanced analytics capabilities can help you solve business problems and make data-driven decisions.\nTraining Solutions: We offer customized training for your organization or government to assist with data-driven decision-making and business intelligence.\n\nIf you’re ready to take your organization or government to the next level with the power of data-driven insights, contact us today to schedule a consultation with one of our experts."
   }
 ]
