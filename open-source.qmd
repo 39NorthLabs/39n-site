@@ -7,7 +7,7 @@ At 39 North Labs, we're committed to providing thought leadership in the field o
 ## R Packages
 
 ### zipcodeR
-The zipcodeR package for R is one of the programming language's most widely used packages for performing analysis on ZIP code level spatial datasets. With this package, you can easily access and analyze data at the ZIP code level, helping you gain a deeper understanding of your data and make more informed decisions.
+The [zipcodeR](https://zipcoder.39n.io) package for R is one of the programming language's most widely used packages for performing analysis on ZIP code level spatial datasets. With this package, you can easily access and analyze data at the ZIP code level, helping you gain a deeper understanding of your data and make more informed decisions.
 
 ### njgeo
 The njgeo package provides an R interface to New Jersey's official state geocoding APIs in a format native to R users. With this package, you can easily access and analyze geocoded data for the state of New Jersey, making it easier to conduct spatial analyses and create maps.
