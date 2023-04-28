@@ -24,7 +24,7 @@ website:
 
 format:
   html:
-    theme: cerulean
+    theme: lux
     css: styles.css
     toc: false
 
