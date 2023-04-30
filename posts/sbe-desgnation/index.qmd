@@ -9,8 +9,6 @@ editor:
     wrap: 72
 ---
 
-## 39 North Labs Attains Small Business Entity Status in New Jersey
-
 We are proud to announce that 39 North Labs has been designated as a Small Business Entity by the New Jersey Department of the Treasury under the [Small Business Set-Aside Act.](https://www.nj.gov/treasury/purchase/smallbusiness.shtml) This milestone recognizes our commitment to providing exceptional consulting services and opens up new opportunities for our firm to collaborate with state and local government agencies.
 
 ### The Significance of Small Business Entity Status for 39 North Labs
