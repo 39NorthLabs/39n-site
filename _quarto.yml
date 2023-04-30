@@ -19,6 +19,7 @@ website:
       - index.qmd
       - services.qmd
       - open-source.qmd
+      - blog.qmd
       - about.qmd
 
 
