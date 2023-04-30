@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>39 North Labs, LLC.</title>
+<link>https://39n.io/blog.html</link>
+<atom:link href="https://39n.io/blog.xml" rel="self" type="application/rss+xml"/>
+<description>Data Science, GIS &amp; Business Analytics Consulting</description>
+<generator>quarto-1.3.340</generator>
+<lastBuildDate>Sun, 30 Apr 2023 04:00:00 GMT</lastBuildDate>
+<item>
+  <title>39 North Labs achieves small business entity status in New Jersey</title>
+  <dc:creator>39 North Labs</dc:creator>
+  <link>https://39n.io/posts/sbe-desgnation/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<section id="north-labs-attains-small-business-entity-status-in-new-jersey" class="level2">
+<h2 class="anchored" data-anchor-id="north-labs-attains-small-business-entity-status-in-new-jersey">39 North Labs Attains Small Business Entity Status in New Jersey</h2>
+<p>We are proud to announce that 39 North Labs has been designated as a Small Business Entity by the New Jersey Department of the Treasury under the <a href="https://www.nj.gov/treasury/purchase/smallbusiness.shtml">Small Business Set-Aside Act.</a> This milestone recognizes our commitment to providing exceptional consulting services and opens up new opportunities for our firm to collaborate with state and local government agencies.</p>
+<section id="the-significance-of-small-business-entity-status-for-39-north-labs" class="level3">
+<h3 class="anchored" data-anchor-id="the-significance-of-small-business-entity-status-for-39-north-labs">The Significance of Small Business Entity Status for 39 North Labs</h3>
+<p>Being recognized as a <a href="https://business.nj.gov/pages/sbe?locale=en">Small Business Entity</a> places 39 North Labs in a select group of businesses that have been vetted and approved by the New Jersey Department of the Treasury. This designation allows us to participate in New Jersey’s Small Business Set-Aside Program, which is designed to support and promote small businesses by reserving a percentage of state contracts exclusively for them.</p>
+<p>Through this status, we can expand our reach and engage with a broader range of clients, including state and local government agencies. By being a part of this program, we have the opportunity to contribute to projects that have a direct impact on the communities we serve.</p>
+</section>
+<section id="our-commitment-to-innovative-solutions" class="level3">
+<h3 class="anchored" data-anchor-id="our-commitment-to-innovative-solutions">Our Commitment to Innovative Solutions</h3>
+<p>At 39 North Labs, our team of experienced professionals is dedicated to providing <a href="../../services.html">innovative solutions</a> to complex business problems. Our expertise spans across multiple industries, including healthcare, finance, transportation, and retail. We help our clients optimize their operations, make informed decisions, and uncover hidden insights through our consulting services.</p>
+<p>We are also strong proponents of open source tools and contribute to the data science community by maintaining and developing various <a href="../../open-source.html">open source projects.</a></p>
+</section>
+<section id="looking-forward" class="level3">
+<h3 class="anchored" data-anchor-id="looking-forward">Looking Forward</h3>
+<p>We are grateful for this recognition and the opportunities it presents for 39 North Labs to continue growing and expanding our impact. As a Small Business Entity, we are committed to delivering the highest quality of service to our clients, fostering innovation within our industry, and maintaining our role as a leader in the field.</p>
+<p>To learn more about our services and how we can help you leverage innovative solutions, please contact us to discuss your specific needs.</p>
+<p>Thank you for your continued support, and we look forward to working with you!</p>
+
+
+</section>
+</section>
+
+<p>Copyright © 2023 <strong>39 North Labs LLC.</strong> 610 Lacey Road, #1232 Forked River, NJ 08731 - <a href="https://39n.io/privacy-policy">Privacy Policy</a></p> ]]></description>
+  <guid>https://39n.io/posts/sbe-desgnation/index.html</guid>
+  <pubDate>Sun, 30 Apr 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://39n.io/posts/sbe-desgnation/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>

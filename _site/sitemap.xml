@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://39n.io/services.html</loc>
-    <lastmod>2023-04-28T04:16:24.078Z</lastmod>
+    <lastmod>2023-04-30T15:17:23.693Z</lastmod>
   </url>
   <url>
     <loc>https://39n.io/open-source.html</loc>
@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>https://39n.io/index.html</loc>
-    <lastmod>2023-04-28T04:19:09.199Z</lastmod>
+    <lastmod>2023-04-30T15:17:24.936Z</lastmod>
   </url>
   <url>
     <loc>https://39n.io/about.html</loc>
@@ -23,5 +23,13 @@
   <url>
     <loc>https://39n.io/privacy-policy.html</loc>
     <lastmod>2023-04-15T15:12:26.253Z</lastmod>
+  </url>
+  <url>
+    <loc>https://39n.io/blog.html</loc>
+    <lastmod>2023-04-30T15:50:27.301Z</lastmod>
+  </url>
+  <url>
+    <loc>https://39n.io/posts/sbe-desgnation/index.html</loc>
+    <lastmod>2023-04-30T15:50:15.255Z</lastmod>
   </url>
 </urlset>

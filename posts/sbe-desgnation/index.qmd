@@ -1,0 +1,34 @@
+---
+title: "39 North Labs achieves small business entity status in New Jersey"
+author: "39 North Labs"
+date: "2023-04-30"
+tags: [39 North Labs, Small Business Entity, New Jersey Department of the Treasury, Small Business Set-Aside Act, Data Analytics, GIS, Business Analytics]
+image: image.jpg
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+## 39 North Labs Attains Small Business Entity Status in New Jersey
+
+We are proud to announce that 39 North Labs has been designated as a Small Business Entity by the New Jersey Department of the Treasury under the [Small Business Set-Aside Act.](https://www.nj.gov/treasury/purchase/smallbusiness.shtml) This milestone recognizes our commitment to providing exceptional consulting services and opens up new opportunities for our firm to collaborate with state and local government agencies.
+
+### The Significance of Small Business Entity Status for 39 North Labs
+
+Being recognized as a [Small Business Entity](https://business.nj.gov/pages/sbe?locale=en) places 39 North Labs in a select group of businesses that have been vetted and approved by the New Jersey Department of the Treasury. This designation allows us to participate in New Jersey's Small Business Set-Aside Program, which is designed to support and promote small businesses by reserving a percentage of state contracts exclusively for them.
+
+Through this status, we can expand our reach and engage with a broader range of clients, including state and local government agencies. By being a part of this program, we have the opportunity to contribute to projects that have a direct impact on the communities we serve.
+
+### Our Commitment to Innovative Solutions
+
+At 39 North Labs, our team of experienced professionals is dedicated to providing [innovative solutions](/services.qmd) to complex business problems. Our expertise spans across multiple industries, including healthcare, finance, transportation, and retail. We help our clients optimize their operations, make informed decisions, and uncover hidden insights through our consulting services.
+
+We are also strong proponents of open source tools and contribute to the data science community by maintaining and developing various [open source projects.](/open-source.qmd) 
+
+### Looking Forward
+
+We are grateful for this recognition and the opportunities it presents for 39 North Labs to continue growing and expanding our impact. As a Small Business Entity, we are committed to delivering the highest quality of service to our clients, fostering innovation within our industry, and maintaining our role as a leader in the field.
+
+To learn more about our services and how we can help you leverage innovative solutions, please contact us to discuss your specific needs.
+
+Thank you for your continued support, and we look forward to working with you!
