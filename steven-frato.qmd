@@ -1,0 +1,11 @@
+---
+title: "Our Team"
+---
+
+# Steven Frato
+
+![Steven Frato](Steven.jpg){width="40%"}
+
+Steven Frato is a Data Analyst Intern at 39 North Labs LLC. His research experience and education in biochemistry and molecular biology, combined with his certifications in data analysis tools such as Excel, Tableau, SQL, BigQuery and the R programming language, makes him a valuable asset to the team. 
+
+At [39 North Labs](/index.qmd), Steven is currently working on a project aimed at helping policymakers make informed decisions about healthcare access and resource allocation in New Jersey. His unique combination of scientific knowledge and analytical skills enables him to provide valuable insights that can inform decision-making and drive positive change that would not be possible for either discipline alone.
