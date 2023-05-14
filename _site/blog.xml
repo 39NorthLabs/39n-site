@@ -9,7 +9,7 @@
 <link>https://39n.io/blog.html</link>
 <atom:link href="https://39n.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Data Science, GIS &amp; Business Analytics Consulting</description>
-<generator>quarto-1.3.326</generator>
+<generator>quarto-1.3.340</generator>
 <lastBuildDate>Sun, 30 Apr 2023 04:00:00 GMT</lastBuildDate>
 <item>
   <title>39 North Labs achieves small business entity status in New Jersey</title>
@@ -49,6 +49,64 @@
   <guid>https://39n.io/posts/sbe-desgnation/index.html</guid>
   <pubDate>Sun, 30 Apr 2023 04:00:00 GMT</pubDate>
   <media:content url="https://39n.io/posts/sbe-desgnation/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Spotlighting Steven Frato: Pioneering Healthcare Accessibility Analysis at 39 North Labs</title>
+  <link>https://39n.io/posts/spatial-analysis-nj-healthcare-accessibility/index.html</link>
+  <description><![CDATA[ 
+
+
+
+<p>At 39 North Labs, we strive to be at the forefront of data-driven insights, focusing on spatial analysis and GIS. We’re thrilled to announce the latest addition to our team, Steven Frato, a dedicated Data Analyst Intern with a passion for public health and spatial data.</p>
+<p>Steven is currently working towards his Bachelor of Science in Biochemistry at Stockton University. His academic grounding, coupled with an enthusiasm for data science, makes him a fantastic addition to our team.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://39n.io/posts/spatial-analysis-nj-healthcare-accessibility/https:/linktoimageofsteven.com" class="img-fluid figure-img"></p>
+<figcaption class="figure-caption">Steven Frato</figcaption>
+</figure>
+</div>
+<section id="mapping-new-jerseys-healthcare-accessibility" class="level2">
+<h2 class="anchored" data-anchor-id="mapping-new-jerseys-healthcare-accessibility">Mapping New Jersey’s Healthcare Accessibility</h2>
+<p>As part of his internship, Steven will be spearheading an ambitious project: a spatial analysis of New Jersey’s hospitals, focusing on healthcare accessibility and spatial determinants of health at the census tract level.</p>
+<p>The project aims to evaluate the extent to which New Jersey residents can access hospital care, considering various factors such as road congestion and public transit availability. By blending various state data sources and using open-source packages for the R programming language (including our sponsored package, njgeo), Steven’s analysis will shed light on critical healthcare accessibility issues.</p>
+<p>We had the chance to ask Steven about this exciting endeavor:</p>
+<section id="what-drove-you-to-undertake-this-project" class="level3">
+<h3 class="anchored" data-anchor-id="what-drove-you-to-undertake-this-project">What drove you to undertake this project?</h3>
+<blockquote class="blockquote">
+<p>“Being a New Jersey native, I’ve always been interested in using data to better understand and address the healthcare landscape. This project offers the perfect opportunity to blend my passion for data analysis and my desire to positively impact local communities.”</p>
+</blockquote>
+</section>
+<section id="how-will-you-approach-this-analysis" class="level3">
+<h3 class="anchored" data-anchor-id="how-will-you-approach-this-analysis">How will you approach this analysis?</h3>
+<blockquote class="blockquote">
+<p>“I plan to gather data on hospital locations, their capacities, and the populations they serve, while also considering factors like traffic congestion and public transit accessibility. Leveraging GIS and the R programming language — particularly the njgeo package — I aim to uncover patterns that can inform policy decisions.”</p>
+</blockquote>
+</section>
+<section id="what-challenges-do-you-foresee" class="level3">
+<h3 class="anchored" data-anchor-id="what-challenges-do-you-foresee">What challenges do you foresee?</h3>
+<blockquote class="blockquote">
+<p>“Given the amount of data and the intricacies of spatial analysis, there could be challenges in identifying the most pertinent information. However, I am confident that with the resources and guidance available at 39 North Labs, these challenges can be effectively navigated.”</p>
+</blockquote>
+</section>
+<section id="what-outcomes-do-you-hope-to-achieve" class="level3">
+<h3 class="anchored" data-anchor-id="what-outcomes-do-you-hope-to-achieve">What outcomes do you hope to achieve?</h3>
+<blockquote class="blockquote">
+<p>“Beyond refining my data analysis skills, I aim to provide actionable insights that can contribute to improving healthcare accessibility in New Jersey. I’m excited about the potential to share some of our findings with the public and contribute to the wider body of research.”</p>
+</blockquote>
+<p>Steven’s commitment to leveraging data for public good resonates deeply with our values at 39 North Labs. We eagerly anticipate the valuable insights his work will provide, and the potential for it to inform policies that improve healthcare accessibility.</p>
+<p>Stay tuned for updates on Steven’s work, and other exciting projects at 39 North Labs.</p>
+<hr>
+<p>Let’s extend a warm welcome to Steven as he embarks on this impactful journey with us. We are confident that his work will not only shed light on critical issues, but also exemplify the cutting-edge spatial analysis capabilities we pride ourselves on at 39 North Labs.</p>
+<hr>
+<p>Connect with us on <a href="https://twitter.com/39NorthLabs">Twitter</a> and <a href="https://linkedin.com/company/39northlabs">LinkedIn</a> to keep up with the latest updates and news from 39 North Labs.</p>
+
+
+</section>
+</section>
+
+<p>Copyright © 2023 <strong>39 North Labs LLC.</strong> 610 Lacey Road, #1232 Forked River, NJ 08731 - <a href="https://39n.io/privacy-policy">Privacy Policy</a></p> ]]></description>
+  <guid>https://39n.io/posts/spatial-analysis-nj-healthcare-accessibility/index.html</guid>
+  <pubDate>Sat, 13 May 2023 23:55:42 GMT</pubDate>
 </item>
 </channel>
 </rss>

@@ -1,0 +1,46 @@
+---
+title: "Spotlighting Steven Frato: Pioneering Healthcare Accessibility Analysis at 39 North Labs"
+draft: true
+---
+
+At 39 North Labs, we strive to be at the forefront of data-driven insights, focusing on spatial analysis and GIS. We're thrilled to announce the latest addition to our team, [Steven Frato](/steven-frato.qmd), a dedicated Data Analyst Intern with a passion for public health and spatial data.
+
+Steven is currently working towards his Bachelor of Science in Biochemistry at [Stockton University.](https://stockton.edu) His academic grounding, coupled with an enthusiasm for data science, makes him a fantastic addition to our team.
+
+![Steven Frato](../../Steven.jpg){width=30%}
+
+## Mapping New Jersey's Healthcare Accessibility
+
+As part of his internship, Steven will be spearheading an ambitious project: a spatial analysis of New Jersey's hospitals, focusing on healthcare accessibility and spatial determinants of health at the census tract level.
+
+The project aims to evaluate the extent to which New Jersey residents can access hospital care, considering various factors such as road congestion and public transit availability. By blending various state data sources and using open-source packages for the R programming language (including our sponsored package, njgeo), Steven's analysis will shed light on critical healthcare accessibility issues.
+
+We had the chance to ask Steven about this exciting endeavor:
+
+### What drove you to undertake this project?
+
+> "Being a New Jersey native, I've always been interested in using data to better understand and address the healthcare landscape. This project offers the perfect opportunity to blend my passion for data analysis and my desire to positively impact local communities."
+
+### How will you approach this analysis?
+
+> "I plan to gather data on hospital locations, their capacities, and the populations they serve, while also considering factors like traffic congestion and public transit accessibility. Leveraging GIS and the R programming language — particularly the njgeo package — I aim to uncover patterns that can inform policy decisions."
+
+### What challenges do you foresee?
+
+> "Given the amount of data and the intricacies of spatial analysis, there could be challenges in identifying the most pertinent information. However, I am confident that with the resources and guidance available at 39 North Labs, these challenges can be effectively navigated."
+
+### What outcomes do you hope to achieve?
+
+> "Beyond refining my data analysis skills, I aim to provide actionable insights that can contribute to improving healthcare accessibility in New Jersey. I'm excited about the potential to share some of our findings with the public and contribute to the wider body of research."
+
+Steven's commitment to leveraging data for public good resonates deeply with our values at 39 North Labs. We eagerly anticipate the valuable insights his work will provide, and the potential for it to inform policies that improve healthcare accessibility.
+
+Stay tuned for updates on Steven's work, and other exciting projects at 39 North Labs.
+
+---
+
+Let's extend a warm welcome to Steven as he embarks on this impactful journey with us. We are confident that his work will not only shed light on critical issues, but also exemplify the cutting-edge spatial analysis capabilities we pride ourselves on at 39 North Labs.
+
+---
+
+Connect with us on [LinkedIn](https://www.linkedin.com/company/39-north-labs-llc/) to keep up with the latest updates and news from 39 North Labs.
