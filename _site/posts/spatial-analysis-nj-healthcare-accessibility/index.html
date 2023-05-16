@@ -6,6 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="39 North Labs">
+<meta name="dcterms.date" content="2023-05-15">
 
 <title>39 North Labs, LLC. - Spotlighting Steven Frato: Pioneering Healthcare Accessibility Analysis at 39 North Labs</title>
 <style>
@@ -64,12 +66,16 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../styles.css">
 <meta property="og:title" content="39 North Labs, LLC. - Spotlighting Steven Frato: Pioneering Healthcare Accessibility Analysis at 39 North Labs">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://39n.io/Steven.jpg">
+<meta property="og:image" content="https://39n.io/posts/spatial-analysis-nj-healthcare-accessibility/image.png">
 <meta property="og:site-name" content="39 North Labs, LLC.">
+<meta property="og:image:height" content="1192">
+<meta property="og:image:width" content="1586">
 <meta name="twitter:title" content="39 North Labs, LLC. - Spotlighting Steven Frato: Pioneering Healthcare Accessibility Analysis at 39 North Labs">
 <meta name="twitter:description" content="">
-<meta name="twitter:image" content="https://39n.io/Steven.jpg">
+<meta name="twitter:image" content="https://39n.io/posts/spatial-analysis-nj-healthcare-accessibility/image.png">
 <meta name="twitter:creator" content="@gavroz">
+<meta name="twitter:image-height" content="1192">
+<meta name="twitter:image-width" content="1586">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -129,7 +135,8 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#mapping-new-jerseys-healthcare-accessibility" id="toc-mapping-new-jerseys-healthcare-accessibility" class="nav-link active" data-scroll-target="#mapping-new-jerseys-healthcare-accessibility">Mapping New Jersey’s Healthcare Accessibility</a>
+  <li><a href="#mapping-new-jerseys-healthcare-accessibility-an-early-preview" id="toc-mapping-new-jerseys-healthcare-accessibility-an-early-preview" class="nav-link active" data-scroll-target="#mapping-new-jerseys-healthcare-accessibility-an-early-preview">Mapping New Jersey’s Healthcare Accessibility: An Early Preview</a></li>
+  <li><a href="#an-interview-with-steven-frato" id="toc-an-interview-with-steven-frato" class="nav-link" data-scroll-target="#an-interview-with-steven-frato">An Interview With Steven Frato</a>
   <ul class="collapse">
   <li><a href="#what-drove-you-to-undertake-this-project" id="toc-what-drove-you-to-undertake-this-project" class="nav-link" data-scroll-target="#what-drove-you-to-undertake-this-project">What drove you to undertake this project?</a></li>
   <li><a href="#how-will-you-approach-this-analysis" id="toc-how-will-you-approach-this-analysis" class="nav-link" data-scroll-target="#how-will-you-approach-this-analysis">How will you approach this analysis?</a></li>
@@ -151,7 +158,19 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>39 North Labs </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May 15, 2023</p>
+    </div>
+  </div>
   
     
   </div>
@@ -160,17 +179,29 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <p>At 39 North Labs, we strive to be at the forefront of data-driven insights, focusing on spatial analysis and GIS. We’re thrilled to announce the latest addition to our team, <a href="../../steven-frato.html">Steven Frato</a>, a dedicated Data Analyst Intern with a passion for public health and spatial data.</p>
-<p>Steven is currently working towards his Bachelor of Science in Biochemistry at <a href="https://stockton.edu">Stockton University.</a> His academic grounding, coupled with an enthusiasm for data science, makes him a fantastic addition to our team.</p>
+<p>Steven is currently working towards his Bachelor of Science in Biochemistry at <a href="https://stockton.edu">Stockton University.</a> His academic grounding, coupled with an enthusiasm for data-driven solutions, makes him a fantastic addition to our team.</p>
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
-<p><img src="../../Steven.jpg" class="img-fluid figure-img" style="width:30.0%"></p>
+<p><img src="../../Steven.jpg" class="img-fluid figure-img" style="width:40.0%"></p>
 <figcaption class="figure-caption">Steven Frato</figcaption>
 </figure>
 </div>
-<section id="mapping-new-jerseys-healthcare-accessibility" class="level2">
-<h2 class="anchored" data-anchor-id="mapping-new-jerseys-healthcare-accessibility">Mapping New Jersey’s Healthcare Accessibility</h2>
-<p>As part of his internship, Steven will be spearheading an ambitious project: a spatial analysis of New Jersey’s hospitals, focusing on healthcare accessibility and spatial determinants of health at the census tract level.</p>
-<p>The project aims to evaluate the extent to which New Jersey residents can access hospital care, considering various factors such as road congestion and public transit availability. By blending various state data sources and using open-source packages for the R programming language (including our sponsored package, njgeo), Steven’s analysis will shed light on critical healthcare accessibility issues.</p>
+<section id="mapping-new-jerseys-healthcare-accessibility-an-early-preview" class="level2">
+<h2 class="anchored" data-anchor-id="mapping-new-jerseys-healthcare-accessibility-an-early-preview">Mapping New Jersey’s Healthcare Accessibility: An Early Preview</h2>
+<p>Steven is undertaking an ambitious research project as part of his internship: a spatial analysis of New Jersey hospitals focusing on healthcare accessibility and social determinants of health. This analysis, conducted at the census tract level, aims to assess the extent to which residents of New Jersey can access hospital care. A census tract is a geographic region defined for the purpose of taking a census. It generally includes around 4,000 residents but can range from 1,200 to 8,000.</p>
+<p>For this early phase of the project, Steven has fused New Jersey’s state hospital licensing dataset with data from the U.S. Census Bureau to create a tract-level dataset suitable for small-area analysis. This data was used to match each census tract with its nearest hospital and calculate the distance between them.</p>
+<p>The preliminary findings reveal that all New Jersey residents live within 17 miles of a licensed hospital, although some areas have better coverage than others. These findings can be explored in the interactive map included in this post.</p>
+<iframe src="../../nj_hospital_interactive.html" width="100%" height="600">
+<!-- This message is displayed in browsers that do not support iframes -->
+<p>
+Your browser does not support iframes.
+</p>
+</iframe>
+<p>In the next stage of the project, Steven will evaluate hospital capacity, transit, and drive accessibility using a routing engine as well as additional spatial analysis. This will offer a more comprehensive analysis of healthcare accessibility in the state.</p>
+<p>The project aims to evaluate the extent to which New Jersey residents can access hospital care, considering various factors such as road congestion and public transit availability. By blending various state data sources and using open-source packages for the R programming language (including our sponsored package, <a href="../../open-source.html">njgeo</a>), Steven’s analysis will shed light on critical healthcare accessibility issues facing New Jersey residents and will be of interest to planning &amp; public policy professionals.</p>
+</section>
+<section id="an-interview-with-steven-frato" class="level2">
+<h2 class="anchored" data-anchor-id="an-interview-with-steven-frato">An Interview With Steven Frato</h2>
 <p>We had the chance to ask Steven about this exciting endeavor:</p>
 <section id="what-drove-you-to-undertake-this-project" class="level3">
 <h3 class="anchored" data-anchor-id="what-drove-you-to-undertake-this-project">What drove you to undertake this project?</h3>
@@ -197,9 +228,11 @@ ul.task-list li input[type="checkbox"] {
 </blockquote>
 <p>Steven’s commitment to leveraging data for public good resonates deeply with our values at 39 North Labs. We eagerly anticipate the valuable insights his work will provide, and the potential for it to inform policies that improve healthcare accessibility.</p>
 <p>Stay tuned for updates on Steven’s work, and other exciting projects at 39 North Labs.</p>
-<hr>
 <p>Let’s extend a warm welcome to Steven as he embarks on this impactful journey with us. We are confident that his work will not only shed light on critical issues, but also exemplify the cutting-edge spatial analysis capabilities we pride ourselves on at 39 North Labs.</p>
 <hr>
+<p>At 39 North Labs, our commitment extends beyond cultivating the future leaders of data science. We also provide top-tier <a href="../../services.html">consulting services</a>, empowering organizations with the precision of GIS and spatial analysis, as exemplified by the ongoing project of our intern, Steven Frato.</p>
+<p>Like the impactful analysis Steven is conducting, we specialize in developing tailored data solutions that align perfectly with your organization’s unique needs. Our robust expertise enables us to extract meaningful insights from complex data landscapes, driving informed decision-making and operational optimization.</p>
+<p><a href="../../contact.html">Contact us</a> to explore how our bespoke data solutions can propel your organization towards its strategic objectives.</p>
 <p>Connect with us on <a href="https://www.linkedin.com/company/39-north-labs-llc/">LinkedIn</a> to keep up with the latest updates and news from 39 North Labs.</p>
 
 

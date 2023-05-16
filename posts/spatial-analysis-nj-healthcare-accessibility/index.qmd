@@ -1,19 +1,34 @@
 ---
 title: "Spotlighting Steven Frato: Pioneering Healthcare Accessibility Analysis at 39 North Labs"
-draft: true
+author: "39 North Labs"
+date: "2023-05-15"
+image: image.png
 ---
 
 At 39 North Labs, we strive to be at the forefront of data-driven insights, focusing on spatial analysis and GIS. We're thrilled to announce the latest addition to our team, [Steven Frato](/steven-frato.qmd), a dedicated Data Analyst Intern with a passion for public health and spatial data.
 
-Steven is currently working towards his Bachelor of Science in Biochemistry at [Stockton University.](https://stockton.edu) His academic grounding, coupled with an enthusiasm for data science, makes him a fantastic addition to our team.
+Steven is currently working towards his Bachelor of Science in Biochemistry at [Stockton University.](https://stockton.edu) His academic grounding, coupled with an enthusiasm for data-driven solutions, makes him a fantastic addition to our team.
 
-![Steven Frato](../../Steven.jpg){width=30%}
+![Steven Frato](../../Steven.jpg){width=40%}
 
-## Mapping New Jersey's Healthcare Accessibility
+## Mapping New Jersey's Healthcare Accessibility: An Early Preview
 
-As part of his internship, Steven will be spearheading an ambitious project: a spatial analysis of New Jersey's hospitals, focusing on healthcare accessibility and spatial determinants of health at the census tract level.
+Steven is undertaking an ambitious research project as part of his internship: a spatial analysis of New Jersey hospitals focusing on healthcare accessibility and social determinants of health. This analysis, conducted at the census tract level, aims to assess the extent to which residents of New Jersey can access hospital care. A census tract is a geographic region defined for the purpose of taking a census. It generally includes around 4,000 residents but can range from 1,200 to 8,000.
 
-The project aims to evaluate the extent to which New Jersey residents can access hospital care, considering various factors such as road congestion and public transit availability. By blending various state data sources and using open-source packages for the R programming language (including our sponsored package, njgeo), Steven's analysis will shed light on critical healthcare accessibility issues.
+For this early phase of the project, Steven has fused New Jersey's state hospital licensing dataset with data from the U.S. Census Bureau to create a tract-level dataset suitable for small-area analysis. This data was used to match each census tract with its nearest hospital and calculate the distance between them.
+
+The preliminary findings reveal that all New Jersey residents live within 17 miles of a licensed hospital, although some areas have better coverage than others. These findings can be explored in the interactive map included in this post.
+
+<iframe src="../../nj_hospital_interactive.html" width="100%" height="600">
+            <!-- This message is displayed in browsers that do not support iframes -->
+            <p>Your browser does not support iframes.</p>
+ </iframe>
+
+In the next stage of the project, Steven will evaluate hospital capacity, transit, and drive accessibility using a routing engine as well as additional spatial analysis. This will offer a more comprehensive analysis of healthcare accessibility in the state.
+
+The project aims to evaluate the extent to which New Jersey residents can access hospital care, considering various factors such as road congestion and public transit availability. By blending various state data sources and using open-source packages for the R programming language (including our sponsored package, [njgeo](/open-source.qmd)), Steven's analysis will shed light on critical healthcare accessibility issues facing New Jersey residents and will be of interest to planning & public policy professionals.
+
+## An Interview With Steven Frato
 
 We had the chance to ask Steven about this exciting endeavor:
 
@@ -37,10 +52,14 @@ Steven's commitment to leveraging data for public good resonates deeply with our
 
 Stay tuned for updates on Steven's work, and other exciting projects at 39 North Labs.
 
----
-
 Let's extend a warm welcome to Steven as he embarks on this impactful journey with us. We are confident that his work will not only shed light on critical issues, but also exemplify the cutting-edge spatial analysis capabilities we pride ourselves on at 39 North Labs.
 
 ---
+
+At 39 North Labs, our commitment extends beyond cultivating the future leaders of data science. We also provide top-tier [consulting services](/services.qmd), empowering organizations with the precision of GIS and spatial analysis, as exemplified by the ongoing project of our intern, Steven Frato.
+
+Like the impactful analysis Steven is conducting, we specialize in developing tailored data solutions that align perfectly with your organization's unique needs. Our robust expertise enables us to extract meaningful insights from complex data landscapes, driving informed decision-making and operational optimization.
+
+[Contact us](/contact.qmd) to explore how our bespoke data solutions can propel your organization towards its strategic objectives.
 
 Connect with us on [LinkedIn](https://www.linkedin.com/company/39-north-labs-llc/) to keep up with the latest updates and news from 39 North Labs.
