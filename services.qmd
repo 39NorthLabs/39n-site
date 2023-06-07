@@ -10,9 +10,13 @@ At 39 North Labs, we specialize in providing professional data analytics and con
 
 - **Public Sector Data Mining:** We can help you create value from public sector datasets by mining data from public entities for lead generation and business intelligence. We also provide guidance on utilizing freedom of information (FOI) laws to obtain valuable data for your organization or government.
 
-- **Web Scraping and Social Media Analytics:** We can develop custom solutions for scraping data from public websites and mining social media datasets for localized intelligence and public sentiment analysis.
+- **Litigation Support:** Our team offers expert witness testimony services for legal proceedings. We provide clear, reliable, and robust data-driven arguments that can stand up to rigorous cross-examination in court.
+
+- **Academic Research Support:** We help academic institutions harness the power of data science and AI in their research. From data collection and analysis to the application of advanced AI and machine learning techniques, we provide comprehensive support for research projects.
 
 - **Data Analysis and Machine Learning/AI:** Our advanced analytics capabilities can help you solve business problems and make data-driven decisions.
+
+- **Web Scraping and Social Media Analytics:** We can develop custom solutions for scraping data from public websites and mining social media datasets for localized intelligence and public sentiment analysis.
 
 - **Training Solutions:** We offer customized training for your organization or government to assist with data-driven decision-making and business intelligence.
 
