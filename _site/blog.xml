@@ -9,7 +9,7 @@
 <link>https://39n.io/blog.html</link>
 <atom:link href="https://39n.io/blog.xml" rel="self" type="application/rss+xml"/>
 <description>Data Science, GIS &amp; Business Analytics Consulting</description>
-<generator>quarto-1.3.326</generator>
+<generator>quarto-1.3.361</generator>
 <lastBuildDate>Mon, 15 May 2023 04:00:00 GMT</lastBuildDate>
 <item>
   <title>Spotlighting Steven Frato: Pioneering Healthcare Accessibility Analysis at 39 North Labs</title>
@@ -24,7 +24,7 @@
 <div class="quarto-figure quarto-figure-center">
 <figure class="figure">
 <p><img src="https://39n.io/Steven.jpg" class="img-fluid figure-img" style="width:40.0%"></p>
-<p></p><figcaption class="figure-caption">Steven Frato</figcaption><p></p>
+<figcaption class="figure-caption">Steven Frato</figcaption>
 </figure>
 </div>
 <section id="mapping-new-jerseys-healthcare-accessibility-an-early-preview" class="level2">
